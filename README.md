@@ -14,7 +14,7 @@ I’m a researcher and data analyst specializing in forage and bioenergy crop im
 •	Field & Laboratory: Greenhouse and multi-location field trial design, tissue sampling, RNA-seq analysis
 •	Equipment: Wintersteiger forage harvesters
 
-## 🌱 Current Projects:
+## 🌱 Current Projects
 •	Drought Adaptation Index (DAI) development for switchgrass germplasm
 •	Transcriptomic profiling of heat and freezing tolerance in perennial ryegrass
 •	Comparative genomic prediction pipelines for bioenergy crops
@@ -24,7 +24,7 @@ I’m a researcher and data analyst specializing in forage and bioenergy crop im
 •	Adhikari et al., 2021. BMC Plant Biology – Freezing tolerance QTL in alfalfa
 View full list on Google Scholar https://scholar.google.com/citations?user=0vZXBtQAAAAJ&hl=en&oi=ao
 
-## 🧩 Certifications & Memberships:
+## 🧩 Certifications & Memberships
 •	Certified Agricultural Pesticide Applicator
 •	Life Member, Association of Nepalese Agricultural Professionals of Americas (NAPA)
 •	Member, The Honor Society of Phi Kappa Phi
