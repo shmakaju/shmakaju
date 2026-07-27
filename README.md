@@ -30,7 +30,7 @@ View full list on Google Scholar https://scholar.google.com/citations?user=0vZXB
 •	Member, The Honor Society of Phi Kappa Phi
 
 ### 📫 Connect
-### 📧 shmakaju@uga.edu
+### 📧 shmakaju@gmail.com
 ### 🌐 https://orcid.org/0000-0002-1228-8174
 ### 📍 Athens, Georgia, USA
 
